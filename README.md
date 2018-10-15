@@ -22,5 +22,5 @@ El Open Data comprende tantas fuentes, formatos y contenidos que, en ocasiones, 
 
 
 ## Material adicional
-* **Slides** - Próximamente
+* **Slides** [aquí](https://docs.google.com/presentation/d/e/2PACX-1vQhvR1M8bSiLbat5cKFnRIL_d_1scCM1xyqxh8S8_GHPruaXUNXU-RPfhkPzA3l73Afuy8XedrGrL3_/pub?start=false&loop=false&delayms=3000)
 
